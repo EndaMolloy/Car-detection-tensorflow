@@ -6,6 +6,10 @@ url = "https://pypi.org/simple"
 [packages]
 requests = "*"
 tensorflow = "*"
+opencv-python = "*"
+cython = "*"
+jupyter = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.5"
